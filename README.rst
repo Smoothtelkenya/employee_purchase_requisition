@@ -14,7 +14,7 @@ GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL v3)
 
 Company
 -------
-* `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* `Smoothtel and Data Solutions <https://smoothtel.com/>`__
 
 Credits
 -------
