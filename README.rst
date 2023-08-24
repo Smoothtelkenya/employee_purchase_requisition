@@ -18,11 +18,11 @@ Company
 
 Credits
 -------
-* Developer:(V16) Vishnu P
+* Developer:(V16) Gibeon Gideon (https://github.com/gibeongideon)
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
+* Mail Contact : kipngenol@gmail.com
 
 Bug Tracker
 -----------
@@ -30,9 +30,7 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-This module is maintained by Cybrosys Technologies.
-
-For support and more information, please visit https://www.cybrosys.com
+This module is maintained by Smoothtel & Data Solutions.
 
 Further information
 ===================
